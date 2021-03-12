@@ -1,11 +1,3 @@
-# Hi, I´m Wesley Guisso 👋
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wguisso)](https://github.com/wguisso)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wguisso/)](https://www.linkedin.com/in/wguisso/)
-
-### About me
-I'm a software engineer, consultant, and photographer currently living in Vitória, Brasil. I am also interested in running, business, and technology.
-
 <!--
 **wguisso/wguisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
